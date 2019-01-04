@@ -1,7 +1,8 @@
 # 100DaysOfCode2019_BC
-My progress for the 100DaysOfCode Challenge. I am doing the Web Development curriculum on https://learn.freecodecamp.org/
+Tracking my progress for the 100DaysOfCode Challenge. 
+I am doing the Web Development curriculum by FreeCodeCamp https://learn.freecodecamp.org/
 
-3 January 2019 - the Magic Begins!!!
+3 January 2019 - The Magic Begins!!!
 ---------------
 
 Day 1:
@@ -18,7 +19,7 @@ PassedAdd Images to Your Website
 PassedLink to External Pages with Anchor Elements
 PassedLink to Internal Sections of a Page with Anchor Elements
 
-Day 2
+Day 2:
 Nest an Anchor Element within a Paragraph
 PassedMake Dead Links Using the Hash Symbol
 PassedTurn an Image into a Link
